@@ -57,7 +57,7 @@ js/
 - Update data in `data/` as needed.
 
 ## Credits
-Developed by [Your Name/Team].
+Developed by [Het and Zarvin Patel].
 
 ---
 For issues or contributions, please open an issue or pull request.
